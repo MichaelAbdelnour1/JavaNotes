@@ -1,4 +1,3 @@
-Here's a comprehensive guide to Emacs for someone new to it, including shortcuts, creating, running, and deleting files, working with various file types, and creating interactive notes.
 
 ---
 
@@ -150,5 +149,3 @@ Here’s a basic example to enable line numbers and syntax highlighting:
 Emacs is a highly powerful and customizable editor. This guide has introduced you to the basics, but there is much more to learn. Explore, customize, and make Emacs your own. Happy editing!
 
 ---
-
-Feel free to adjust the contents of the guide to better fit your specific needs and preferences. Let me know if there's anything else you'd like to add or change!
